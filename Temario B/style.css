@@ -1,0 +1,27 @@
+#negro{
+	background: black;
+	font: arial;
+	color: white;
+
+}
+.container{
+	width: 100%;
+	height: 0 auto;
+	
+}
+.espacio:hover{
+background: gray;
+color: white; 
+}
+.derecha{
+	text-align: right;
+	border-top: 50px;
+}
+.izquierda{
+	text-align: left;
+
+}
+.a1{
+	text-align: right;
+	color: orange;
+}
